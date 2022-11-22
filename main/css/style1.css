@@ -134,7 +134,7 @@ body {
 .login-card input[type="checkbox"] {
     width: 16px;
     height: 16px;
-    accent-color: black;
+    accent-color: rgb(66, 56, 56);
 }
 
 .login-card button {
